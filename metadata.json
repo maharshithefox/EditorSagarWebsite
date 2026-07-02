@@ -1,0 +1,6 @@
+{
+  "name": "Editor Sagar",
+  "description": "3D Portfolio for Sagar - professional video editor specializing in wedding, pre-wedding, corporate, maternity, promos, and DJ night videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
